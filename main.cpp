@@ -3,7 +3,7 @@
 #include <flags/flags.h>
 #include <json/json.hpp>
 #include <mnsystem.h> 
-
+#inclute <GLFW/glfw.h>
 #include <application.hpp>
 
 #include "states/menu-state.hpp"
