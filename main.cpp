@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
 
     // Finally run the application
     // Here, the application loop will run till the terminatio condition is statisfied
-    //PlaySound("starwars.wav", NULL, SND_ASYNC|SND_FILENAME|SND_LOOP);
+    sndPlaySound("Komiku_-_12_-_Bicycle.wav", SND_ASYNC|SND_LOOP);
     return app.run(run_for_frames);
 //
 }
